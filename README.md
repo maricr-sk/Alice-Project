@@ -1,6 +1,6 @@
 # Alice Project
 
-Create n-grams given a specific text. Also finds the number of occurrences.
+Create n-grams given a specific text. Also finds the number of occurrences and the 5 most occurring words.
 
 Directions: 
 
